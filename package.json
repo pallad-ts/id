@@ -12,6 +12,9 @@
     "prepublishOnly": "npm run compile",
     "lint": "pallad-scripts lint"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "Łukasz Kużyński <lukasz.kuzynski@gmail.com> (http://wookieb.pl)",
   "license": "MIT",
   "dependencies": {
