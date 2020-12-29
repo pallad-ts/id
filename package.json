@@ -4,6 +4,8 @@
     "@pallad/scripts": "^1.2.3"
   },
   "version": "1.0.0",
+  "main": "compiled/index.js",
+  "compiled": "compiled/index.d.ts",
   "scripts": {
     "test": "pallad-scripts test",
     "compile": "pallad-scripts compile",
