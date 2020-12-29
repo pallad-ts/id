@@ -1,0 +1,26 @@
+{
+  "name": "@pallad/id",
+  "devDependencies": {
+    "@pallad/scripts": "^1.2.3"
+  },
+  "version": "1.0.0",
+  "scripts": {
+    "test": "pallad-scripts test",
+    "compile": "pallad-scripts compile",
+    "prepublishOnly": "npm run compile",
+    "lint": "pallad-scripts lint"
+  },
+  "author": "Łukasz Kużyński <lukasz.kuzynski@gmail.com> (http://wookieb.pl)",
+  "license": "MIT",
+  "dependencies": {
+    "ulid": "^2.3.0"
+  },
+  "files": [
+    "LICENSE",
+    "create.d.ts",
+    "create.js",
+    "tsconfig.tsbuildinfo",
+    "type.d.ts",
+    "type.js"
+  ]
+}
