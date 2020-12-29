@@ -16,11 +16,6 @@
     "ulid": "^2.3.0"
   },
   "files": [
-    "LICENSE",
-    "create.d.ts",
-    "create.js",
-    "tsconfig.tsbuildinfo",
-    "type.d.ts",
-    "type.js"
+    "compiled"
   ]
 }
