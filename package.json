@@ -1,9 +1,6 @@
 {
   "name": "@pallad/id",
-  "devDependencies": {
-    "@pallad/scripts": "2.0.0-alpha.12"
-  },
-  "version": "1.1.0",
+  "version": "1.2.0",
   "main": "compiled/index.js",
   "compiled": "compiled/index.d.ts",
   "scripts": {
@@ -19,6 +16,9 @@
   "license": "MIT",
   "dependencies": {
     "ulid": "^2.3.0"
+  },
+  "devDependencies": {
+    "@pallad/scripts": "^2"
   },
   "files": [
     "compiled"
