@@ -15,7 +15,8 @@
   "author": "Łukasz Kużyński <lukasz.kuzynski@gmail.com> (http://wookieb.pl)",
   "license": "MIT",
   "dependencies": {
-    "ulid": "^2.3.0"
+    "ulid": "^2.3.0",
+    "zod": "^3.22.4"
   },
   "devDependencies": {
     "@pallad/scripts": "^2"
